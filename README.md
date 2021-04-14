@@ -1,16 +1,14 @@
-### Hi there 👋
+## Oi, eu sou a Karen! 👋
 
-<!--
-**karendev1/karendev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏽‍💻 Front-end Developer Júnior  🌎 São Paulo - Brasil 
 
-Here are some ideas to get you started:
+### Encontre-me por aqui:                    
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karennascimento3/)
+![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karen.nascimento.developer@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Angular 11.
+ - Testes Unitários (Karma e Jasmine).
+ - Muito interessada em desenvolvimento Mobile.
+ - A louca dos livros :)
+
+##### Obrigada pela visita. 👀💙
